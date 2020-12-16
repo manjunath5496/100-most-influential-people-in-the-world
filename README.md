@@ -82,7 +82,7 @@
 <li><a href="https://www.biographyonline.net/writers/niccolo-machiavelli.html">Nicoli Machiavelli</a>&nbsp;(1469 &ndash;&nbsp; 1527) Italian diplomat and Renaissance writer considered the father of political science.</li>
 <li><a href="https://www.biographyonline.net/people/famous/thomas-malthus.html">Thomas Malthus</a>&nbsp;(1766&nbsp;&ndash; 1834) English scholar who raised concern over growing population.</li>
 <li><a href="https://www.biographyonline.net/politicians/american/j-f-kennedy.html">John F. Kennedy</a>&nbsp;(1917 &ndash; 1963) 38th President of the US. Served at the height of the Cold War and helped defuse Cuban Missile Crisis.</li>
-<li>Gregory Pincus (1903 &ndash; 1967) American biologist who created the oral contraceptive pill.</li>
+<li><a href="https://en.wikipedia.org/wiki/Gregory_Goodwin_Pincus">Gregory Pincus</a> (1903 &ndash; 1967) American biologist who created the oral contraceptive pill.</li>
 <li><a href="https://www.biographyonline.net/spiritual/mani-biography.html">Mani</a>&nbsp;(216 &ndash; ) Iranian founder of&nbsp;Manichaeism, a&nbsp;gnostic&nbsp;religion which for a time was a rival to Christianity.</li>
 <li><a href="https://www.biographyonline.net/politicians/russian/lenin.html">Lenin</a>&nbsp;(1870 &ndash; 1924) Leader of the Russian Revolution and new Communist regime from 1917 to 1924.</li>
 <li>Sui Wen Ti (541 &ndash;&nbsp; 604) Founder of China&rsquo;s Sui Dynasty and reunifying China in 589</li>
