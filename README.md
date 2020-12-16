@@ -98,7 +98,7 @@
 <li><a href="https://www.biographyonline.net/politicians/russian/mikhail-gorbachev.html">Mikhail Gorbachev</a>&nbsp;(1931 &ndash; ) Leader of Soviet Communist Party who pursued reform &ndash; perestroika and glasnost to open Eastern Europe to democracy.</li>
 <li><a href="https://www.biographyonline.net/royalty/menes-biography.html">Menes</a>&nbsp;c. 3000 BC Egyptian pharaoh who&nbsp;united&nbsp;Upper and Lower Egypt to found the&nbsp;First Dynasty.</li>
 <li><a href="https://www.biographyonline.net/politicians/europe/charlemagne.html">Charlemagne</a>&nbsp;(742 &ndash; 814) United Europe to form&nbsp;the Carolingian Empire. First western Emperor since the fall of Rome.</li>
-<li><a title="Homer Biography" href="https://www.biographyonline.net/poets/homer.html">Homer&nbsp;</a>Greek poet who wrote&nbsp;Iliad&nbsp;and&nbsp;Odyssey</li>
-<li><a title="Justinian I Biography" href="https://en.wikipedia.org/wiki/Justinian_I">Justinian I&nbsp;</a> (482 &ndash;&nbsp; &nbsp;565) Emperor of Eastern Roman Empire</li>
+<li><a href="https://www.biographyonline.net/poets/homer.html">Homer&nbsp;</a>Greek poet who wrote&nbsp;Iliad&nbsp;and&nbsp;Odyssey</li>
+<li><a href="https://en.wikipedia.org/wiki/Justinian_I">Justinian I&nbsp;</a> (482 &ndash;&nbsp; &nbsp;565) Emperor of Eastern Roman Empire</li>
 <li><a href="https://www.biographyonline.net/spiritual/mahavira.html">Mahavira</a>&nbsp;(6th&nbsp;century BC)&nbsp; Principal figure of Jainism.</li>
 </ol>
