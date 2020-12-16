@@ -71,7 +71,7 @@
 <li><a href="https://www.biographyonline.net/military/william-the-conqueror.html">William the Conqueror</a>&nbsp;(1028<sup id="cite_ref-Bates33_1-1" class="reference"></sup>&nbsp;&ndash; 1087) First Norman King of England</li>
 <li><a href="https://www.biographyonline.net/scientists/sigmund-freud-biography.html">Sigmund Freud</a>&nbsp;(1856 &ndash; 1939) An Austrian&nbsp;neurologist&nbsp;who founded psychoanalysis, which involved the investigation of the subconscious, dreams and human mind.</li>
 <li><a href="https://www.biographyonline.net/scientists/edward-jenner.html">Edward Jenner</a>&nbsp;(1749 &ndash; 1823) Developed the world&rsquo;s first vaccine (the smallpox vaccine). Known as the father of immunology.</li>
-<li>Wilhelm Conrad Roentgen&nbsp; (1845&nbsp;&ndash; 1923) German physicist who discovered electromagnetic waves or X-rays.</li>
+<li><a href="https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen">Wilhelm Conrad Roentgen&nbsp;</a> (1845&nbsp;&ndash; 1923) German physicist who discovered electromagnetic waves or X-rays.</li>
 <li><a title="J.S. Bach Biography" href="https://www.biographyonline.net/music/j-s-bach.html">Johann Sebastian Bach</a>&nbsp;(1685&nbsp;&ndash; 1750) Composer and organist who created some of the world&rsquo;s most beautiful music.</li>
 <li><a href="https://www.biographyonline.net/writers/lao-tzu.html">Lao Tzu</a>&nbsp;(6th Century BC &ndash; ) Author of Tao Te Ching and founder of Taoism</li>
 <li><a href="https://www.biographyonline.net/writers/voltaire.html">Voltaire</a>&nbsp;(1694 &ndash;&nbsp; 1778). A key figure of European Enlightenment. His satirical writings played a role in the French Revolution.</li>
